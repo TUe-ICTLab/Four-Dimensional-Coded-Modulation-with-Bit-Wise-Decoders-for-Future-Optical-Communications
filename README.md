@@ -1,6 +1,8 @@
 # Four-Dimensional-Coded-Modulation-with-Bit-Wise-Decoders-for-Future-Optical-Communications
 Supplementary material for the "Four-Dimensional Coded Modulation with Bit-Wise Decoders for Future Optical Communications" paper.
 
+A. Alvarado and E. Agrell, "Four-Dimensional Coded Modulation with Bit-Wise Decoders for Future Optical Communications," in Journal of Lightwave Technology, vol. 33, no. 10, pp. 1993-2003, May 2015, doi: https://doi.org/10.1109/JLT.2015.2396118
+
 The supplementary material for this paper includes three files containing the coordinates of the 4D constellations with 16, 256, and 4096 points, as well as their optimized binary labelings. The files are called C416.txt, C4256.txt, and C44096.txt.
 
 The constellations (not normalized to unit energy) and their binary labelings are stored as a text file with 16, 256, or 4096 tab-separated rows and 5 columns. The first four columns of the i-th row are the coordinates of the i-th constellation point, and the last column is the binary labeling of that constellation point.
